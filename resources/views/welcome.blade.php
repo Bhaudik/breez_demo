@@ -165,6 +165,11 @@
                             </div>
                         </div>
                     </main>
+                    <div class="home">
+                        <div class="col-12-min">
+                            <h1>thankyou this is work </h1>
+                        </div>
+                    </div>
 
                     <footer class="py-16 text-center text-sm text-black dark:text-white/70">
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
